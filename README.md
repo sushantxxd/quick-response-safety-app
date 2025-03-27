@@ -7,14 +7,14 @@ The **Emergency Service App** is a Flutter-based mobile application designed to 
 
 ## Features
 ### User App
-- 📍 **Real-time Location Sharing** – Uses Google Maps API to pinpoint user locations.
-- 🚨 **Emergency Request** – Users can request help with a single tap.
-- 📡 **Live Tracking** – Track responders in real-time.
+-  **Real-time Location Sharing** – Uses Google Maps API to pinpoint user locations.
+-  **Emergency Request** – Users can request help with a single tap.
+-  **Live Tracking** – Track responders in real-time.
 
 
 ### Service Provider App
-- 🚑 **Receive Emergency Requests** – View user requests and navigate to their locations.
-- ✅ **Request Management** – Accept, decline, or mark requests as resolved.
+-  **Receive Emergency Requests** – View user requests and navigate to their locations.
+-  **Request Management** – Accept, decline, or mark requests as resolved.
 
 
 ## Tech Stack
@@ -45,7 +45,7 @@ The **Emergency Service App** is a Flutter-based mobile application designed to 
    ```
 
 ## Contributing
-Feel free to fork and contribute by submitting a pull request.
+if you like you can help me to improve
 
 ## License
 This project is licensed under the MIT License.

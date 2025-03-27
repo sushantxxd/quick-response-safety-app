@@ -26,7 +26,7 @@ The **Emergency Service App** is a Flutter-based mobile application designed to 
 ## Installation & Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/dev778g-me/Rapid-Response.git
+   git clone https://github.com/sushantxxd/quick-response-safety-app
    
    ```
 2. **Setup Firebase**
